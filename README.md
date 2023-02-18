@@ -2,7 +2,6 @@
 
 - 🔭 Sou uma estudante de Ciência da Computação
 - 🌱 Estou aprendendo linguagem de programação JAVA
-- 😄 Pronouns: Ela/Dela
 
 <div align="center">
   <a href="https://github.com/juliacpa73">
