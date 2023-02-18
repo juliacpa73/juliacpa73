@@ -1,4 +1,4 @@
-### Oi, sou a Julia Caroline de Paiva Silva👋
+### Oi, sou a Julia Caroline de Paiva Silva 👋
 
 - 🔭 Sou uma estudante de Ciência da Computação
 - 🌱 Estou aprendendo linguagem de programação JAVA
