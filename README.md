@@ -1,7 +1,4 @@
-### Olá, sou a Julia Caroline de Paiva Silva👋
-
-- 🔭 Curso Bacharelado em Ciência e Tecnologia na Universidade Federal do ABC
-- 🌱 Estou aprendendo linguagem de programação Python e Swift
+### Olá, sou a Julia!
 
 <div align="center">
   <a href="https://github.com/juliacpa73">
@@ -10,13 +7,9 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Julia" height="30" width="40" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Julia" height="30" width="40" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Julia" height="30" width="40" src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white">
+  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Swift" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg">
 </div>
 
   ##
@@ -28,4 +21,5 @@
   <a href="https://www.linkedin.com/in/julia-silva-9680161a4/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
+
 </div>
