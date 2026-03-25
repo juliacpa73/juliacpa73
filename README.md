@@ -1,7 +1,7 @@
-### Oi, sou a Julia Caroline de Paiva Silva👋
+### Olá, sou a Julia Caroline de Paiva Silva👋
 
-- 🔭 Sou uma estudante de Ciência da Computação
-- 🌱 Estou aprendendo linguagem de programação JAVA e Python
+- 🔭 Curso Bacharelado em Ciência e Tecnologia na Universidade Federal do ABC
+- 🌱 Estou aprendendo linguagem de programação Python e Swift
 
 <div align="center">
   <a href="https://github.com/juliacpa73">
