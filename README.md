@@ -1,7 +1,7 @@
 <div align="center">
 
 <p align="center">
-  <font size="6"><strong>Julia Caroline</strong></font><br>
+  <font size="6"><strong>Julia Caroline de Paiva Silva</strong></font><br>
   <em>Estudante de Ciência e Tecnologia @ UFABC</em>
 </p>
 
@@ -23,9 +23,7 @@
 ---
 
 <p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=juliacpa73&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=DB7093&text_color=FFF&border_radius=3&border_color=DB7093&icon_color=FFB6C1" alt="GitHub stats" />
-
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliacpa73&line_height=10&layout=compact&show_icons=true&hide_title=false&langs_count=4&title_color=DB7093&hide=html,scss,less&bg_color=000&text_color=FFB6C1&border_radius=3&border_color=DB7093&count_private=true" alt="Most Used Languages" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=juliacpa73&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=DB7093&text_color=FFF&border_radius=3&border_color=DB7093&icon_color=FFB6C1" alt="GitHub stats" /><img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliacpa73&line_height=10&layout=compact&show_icons=true&hide_title=false&langs_count=4&title_color=DB7093&hide=html,scss,less&bg_color=000&text_color=FFB6C1&border_radius=3&border_color=DB7093&count_private=true" alt="Most Used Languages" />
 </p>
 
 ---
